@@ -1,0 +1,57 @@
+* Bagged & Boarded Game Design
+** Character List
+|-------------------+--------------------------------|
+| Company           | Character                      |
+|-------------------+--------------------------------|
+| Atomic Comics     | Astro Chicken                  |
+| Atomic Comics     | Hover Girl                     |
+| Atomic Comics     | Catamaran Man                  |
+| Atomic Comics     | Connect-O-Bots                 |
+|-------------------+--------------------------------|
+| Monster Comics    | Gorgonzilla                    |
+| Monster Comics    | Octoraffe                      |
+| Monster Comics    | The Pacifier                   |
+| Monster Comics    | Quokkamole                     |
+|-------------------+--------------------------------|
+| Inaction Comics   | Argyle Hammer                  |
+| Inaction Comics   | The Jock                       |
+| Inaction Comics   | Future Man                     |
+| Inaction Comics   | Garfunkle                      |
+|-------------------+--------------------------------|
+| New World Comics  | The Incredible Hawk            |
+| New World Comics  | Gumslinger                     |
+| New World Comics  | Haberdash                      |
+| New Wolrd Comics  | Bicyclops                      |
+|-------------------+--------------------------------|
+| J & K Comics      | The Troll                      |
+| J & K Comics      | Doctor Weird                   |
+| J & K Comics      | Diverson Man                   |
+| J & K Comics      | Beleaguered Ordinary Gentleman |
+|-------------------+--------------------------------|
+| Acme Comics Group | Ratman                         |
+| Acme Comics Group | The Flush                      |
+| Acme Comics Group | Wander Woman                   |
+| Acme Comics Group | Tatwoman                       |
+|-------------------+--------------------------------|
+* Promo ideas
+** 3 Scoring promos
+*** Sidekick
+
+*** Ocotograph - every comic in a displayed 8 set counts as autographed.
+
+* Expansion ideas
+
+** Super Power Ideas
+
+*** Secret Hiding Place
+Name a hero, look at the top 5 cards of the bargain bin. Reveal one comic matching the named hero and place it in [loose or bagged not sure yet] for free.  Immediate speed. 
+** Neighborhood chores
+Tiles that are a liiited action grouping for the round that provide an imporoved income. each round changes
+*** Ideas
+- Rake leaves
+- mow grass
+- shovel snow
+- pull weeds
+- blank box
+** Onomotopeia Expansion
+Pow, zap, thunk etc tokens that can be added to comics to do something

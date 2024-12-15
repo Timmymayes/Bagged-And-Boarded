@@ -1,0 +1,55 @@
+* Thematic Mapping
+** Overview
+I call this thematic mapping. Designing your mechanisms to tightly couple with elements of the theme are essential. This enables easier learning of the game and also makes your design more focused on the experience of the players. In turn a well mapped game is hard to swap themes on as its mechanistic integration interlocks directly with the theme and experience.
+
+I'll give you an example from my upcoming board game, Bagged & Boarded (B&B). In B&B the players are kids during the summer trying to build the best comic book collection they can.
+
+** Mechanism Mapping + Scaffolding to aid learning/understanding.
+
+The comics in the game score at the end of the game based off of how big your sets are. Ultimately represented via a Rummy inspired set collection system in which the mechanical Suit / Rank system is mapped over to Character / Issue Number. This scaffolds the learning by borrowing a known/used system while also maintaining theme.
+
+Classic Rummy is a bit different however as runs can only be matching suit and consecutive numbers. In B&B players may collect comics of the same character but they are not required to match certain issues. This works for both theme and mechanism.
+
+From a mechanical perspective it is harder to match suits/numbers because within the deck there are 24 characters or suits, each having only up to 8 issues. Requiring ordered sets makes putting together sets much harder and thus les fun.
+
+Thematically comic book collectors might not be able to find specific issues because they were more popular and as such fewer in the ecosystem and naturally more expensive. Having issues #2,#5,#7 still brings value to the collector.
+
+Our natural desire to want to connect the dots or fill the gaps creates an opportunity to utilize issue # as a lever in some of the end game scoring conditions.
+
+End game scoring bonus examples that utilize this lever and drive theme
+
+Early Adopter: Sets containing Issue #1 are worth +$50 at the end
+
+Completionist: Sets with consecutive issue numbers are +$20 per issue
+
+Purist: Sets with out any crossovers are worth +$100 (Crossovers are limited wild cards and are always issues #6/7/8 of a series)
+
+** Adjusting the game's core to serve the theme
+
+B&B was born out of a love of the old and the new. The old being classic card games with my family and my new love of euro style worker placement / action selection games. From a very early phase I knew it didn't make sense thematically for my player to have "workers" these are kids during the summer collecting comics, they didn't have minions to send out and do their work, maybe a younger sibling at best.
+
+Along side this one of my first thoughts about the joy of comic book collecting was the bargain bin. Finding a comic you love for cheap in the bargain bin was always super awesome. It is a little bit like finding treasure. Thematically spending more time at a bargain bin enables you to look through more of it and find better stuff. This was the basis of the whole game's system.
+
+Time as a resource. In B&B each player has 12 cubes representing hours in the day. Each space has a few set spaces one may lock in during the planning phase. Generally speaking top to bottom is the ideal lock in with the top being the most efficient option. For example, selling comics. The first player may spend 1 cube to sell 2 comics, the second player spends 2 cubes to sell 2 comics and the 3rd and final spot enables a player to spend 2 cubes to sell 1 comic.
+
+Most spaces, but not all, also have a boost option. Players that have locked in one of the action spaces for a given action may optionally boost their action with additional hours to get more benefit for the selected action. The bargain bin in the game lets the first player spend 1 cube to look at 4 comics and purchase one for $5. Any player who selects the action may boost it and get +1 look per 1 cube OR +1buy per 2 cubes. In this way players may mold their turn to their exact needs.
+
+This lets players work towards hyper efficient turns with lots of little actions or potentially "go all in" on big dives through the deck.
+
+** Abstraction, granularity and modelling within a system
+
+Another key element of thematic mapping is abstraction and granularity. Games are systems that model things. Sometimes a game is super abstract. Chess and GO are on the extreme example of abstraction for a war game where as Twilight imperium is more on the thematic side. Not all games must live in this extreme.
+
+Granularity is closely tied to abstraction. I tend to look at granularity in the scope of a single mechanism or subsystem within a game. A battle could be low resolution, in terms of granularity, such as in Root where you roll two dice and compare results. Or it could be high resolution, a complex war game that spends hours and a multitude of systems and charts to represent a single battle.
+
+The key to building an experience out of your game is to identify which subsystems within the experience you want to increase or decrease the resolution on. An example from B&B is below.
+
+Bagging and boarding comics, the act this game is named after, is the process of getting your comic books putting them in a bag and sliding a stiff cardboard backing behind it then sealing it up. It's now ready to trade, sell, grade etc.
+
+In my game all you do for this is for each "point" of bagging and boarding you get from the action space you move loose comics from one side of your player board to the other. Loose comics sell for half current market value and may not be autographed or displayed in a set. You also have infinite hand limit on loose comics and only 8 limit on bagged & boarded.
+
+This is a low resolution system. We could take the same system and instead make the player purchase bags & baords, maintain a pool of supplies they must secure before spending time to bag and board. This would increase the resolution on that subsystem but it didn't seem like a fun way to go about it. Thus the system is abstracted to a simple system of points used to move from one side to the other.
+
+The output of both systems is the same i.e. how you use the resource to sell/display. So functionally either method would work. This type of consideration comes up all across game design when you're trying to model a system.
+
+Sorry for a very long post but I was excited to chat about it! Hope some of that is insightful.
